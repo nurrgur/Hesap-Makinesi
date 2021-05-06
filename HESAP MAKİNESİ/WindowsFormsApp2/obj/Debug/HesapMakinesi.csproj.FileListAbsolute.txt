@@ -1,0 +1,7 @@
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nur\Desktop\C#\HESAP MAKİNESİ\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
